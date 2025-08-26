@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Convolution on Yassine Ferhi</title>
-    <link>https://lordaldebaran.github.com/tags/convolution/</link>
+    <link>https://lordaldebaran.github.io/tags/convolution/</link>
     <description>Recent content in Convolution on Yassine Ferhi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lordaldebaran.github.com/tags/convolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lordaldebaran.github.io/tags/convolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convolution through QFT</title>
-      <link>https://lordaldebaran.github.com/publications/qft/</link>
+      <link>https://lordaldebaran.github.io/publications/qft/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lordaldebaran.github.com/publications/qft/</guid>
+      <guid>https://lordaldebaran.github.io/publications/qft/</guid>
       <description></description>
     </item>
   </channel>
